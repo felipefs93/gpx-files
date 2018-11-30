@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2018 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2018</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/-3.720582,-38.5095479/Estátua de Iracema Guardiã - Av. Beira Mar, 1140 - Meireles, Fortaleza - CE, 60060-610/@-3.7207096,-38.5101721,19z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x7c748473eaa29b5:0x89a748bb35d32c5c!2m2!1d-38.5095653!2d-3.7205619!3e2?hl=en</url-->
+    <time>2018-11-30T11:11:31Z</time>
+  </metadata>
+  <wpt lat="-3.7208606" lon="-38.5096724">
+    <name>WP001</name>
+  </wpt>
+</gpx>
